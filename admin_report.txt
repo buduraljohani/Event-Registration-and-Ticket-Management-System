@@ -1,0 +1,15 @@
+==== EVENT MANAGEMENT SYSTEM REPORT ====
+
+Users per Role:
+- ADMIN: 1
+- ORGANIZER: 3
+- ATTENDEE: 5
+
+Total Events: 4
+
+Total Registrations: 5
+
+Most Popular Event: Python Bootcamp (2 registrations)
+
+Top Category: Workshop (1 events)
+
