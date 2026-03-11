@@ -1,0 +1,1 @@
+Event Registration and Ticket Management System An integrated Java (Swing) application for managing event registration and ticket generation, backed by a MySQLWorkbench. It provides separate dashboards for three roles: Attendees (to register and browse), Organizers (to manage events), and Admins (for system oversight and reporting). 
