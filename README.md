@@ -182,6 +182,6 @@ Event-Registration-and-Ticket-Management-System/
 
 ## 👤 Author
 
-**Budur Aljohani** — [@buduraljohani](https://github.com/buduraljohani) ** AND Others students
+**Budur Aljohani** — [@buduraljohani](https://github.com/buduraljohani) **AND Others students**
 
 If you found this project useful, consider giving it a ⭐!
